@@ -1,5 +1,4 @@
-#Titulo
-##Titulo nivel 2
+# Titulo
 
 Esta es la documentación de mi aplicación
 
@@ -7,3 +6,9 @@ Esta es la documentación de mi aplicación
 - Paso 2
 - Paso 3
 - Paso 4
+
+## Subtítulo 
+
+Lorem
+
+-Item
